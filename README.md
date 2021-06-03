@@ -3,7 +3,7 @@
 <!--
 **Zaid837/Zaid837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## I'm a Frontend Engineer, Developer Advocate, Gamer who loves playing football.
+## I'm a Frontend Engineer, Developer Advocate and Gamer 
 
 - 🔭 I’m currently working on a Fintech Solution, a large E-Commerce App and my personal website 👨‍💻
 - 🌱 I’m currently learning React and React Ecosystems, libraries, frameworks or technologies and Node.js
