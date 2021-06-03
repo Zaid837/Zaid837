@@ -1,7 +1,7 @@
 ### Hi there 👋💻
 
 <!--
-**Zaid837/Zaid837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zaid837/Zaid837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## I'm a Frontend Engineer, Developer Advocate, Gamer who loves playing football.
 
